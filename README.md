@@ -18,6 +18,7 @@
   <a href="https://sinchana14-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
+
 ## 👩‍💻 About Me
 
 - 🎓 B.E. in **Information Science & Engineering** | CGPA: **8.75/10**
@@ -27,6 +28,7 @@
 - 🤖 Interested in **AI-powered applications** and **full-stack development**
 - 🚀 Open to **Software Engineer & Full Stack Developer** opportunities
 - 📍 Bengaluru, India
+
 
 ## 🛠️ Tech Stack
 
@@ -53,3 +55,12 @@
 **Core Concepts**
 
 ![OOP](https://img.shields.io/badge/OOP-1E1B4B?style=for-the-badge&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-1E1B4B?style=for-the-badge&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-1E1B4B?style=for-the-badge&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-1E1B4B?style=for-the-badge&logoColor=white) ![Debugging](https://img.shields.io/badge/Debugging-1E1B4B?style=for-the-badge&logoColor=white)
+
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [AI-Powered Resume Analyzer & Interview Assistant](https://github.com/sinchana-14/Career_assistance.git) | AI-powered platform for resume analysis, mock interviews, chatbot assistance, and learning recommendations. | React.js · Flask · PostgreSQL · AI |
+| [Hotel Website](https://github.com/sinchana-14/Hotel-Website.git) | Hotel website project showcasing web design and frontend development. | HTML · CSS · JavaScript |
+| [Obys Agency Clone](https://github.com/sinchana-14/Obys_Agency_Clone-.git) | Agency website clone focused on recreating a modern, visually engaging web interface. | HTML · CSS · JavaScript |
