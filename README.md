@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sinchana-h-s-128a02301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sinchanasinchana675@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://sinchana14-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sinchana-h-s-128a02301"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sinchanasinchana675@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sinchana14-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:7C3AED&height=3" width="100%" alt="" />
