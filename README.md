@@ -18,9 +18,10 @@
   <a href="https://sinchana14-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=About%20Me&fontSize=32&fontColor=A78BFA&fontAlignY=55" alt="About Me" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:7C3AED&height=3" width="100%" alt="" />
-
-<h2 align="center">👩‍💻 About Me</h2>
 
 <div align="center">
 <table>
@@ -39,5 +40,3 @@
 </tr>
 </table>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:7C3AED&height=3" width="100%" alt="" />
