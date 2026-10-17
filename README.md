@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0B1026,100:1A1040&height=220&section=header&text=Sinchana%20H%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60&stroke=7C3AED&strokeWidth=1" alt="Sinchana H S - Full Stack Developer" width="100%" />
+<p align="center">
+  <img src="./banner.svg" alt="Sinchana H S - Full Stack Developer" width="100%" />
 </p>
 
 <h3 align="center">Building full-stack applications with Java, Spring Boot, React, and SQL</h3>
