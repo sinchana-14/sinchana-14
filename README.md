@@ -18,25 +18,12 @@
   <a href="https://sinchana14-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=About%20Me&fontSize=32&fontColor=A78BFA&fontAlignY=55" alt="About Me" />
-</p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:7C3AED&height=3" width="100%" alt="" />
+## 👩‍💻 About Me
 
-<div align="center">
-<table>
-<tr>
-<td>
-
-- 🎓 B.E. in Information Science & Engineering | CGPA: 8.75/10
+- 🎓 B.E. in **Information Science & Engineering** | CGPA: **8.75/10**
 - 💼 Full Stack + AI Engineer at **Scale IT OS**
 - 💻 Java Full-Stack Developer Intern at **Palle Technologies**
 - ⚙️ Java, Spring Boot, React.js, Flask, REST APIs & SQL
-- 🤖 Interested in AI-powered applications and full-stack development
+- 🤖 Interested in **AI-powered applications** and **full-stack development**
 - 🚀 Open to **Software Engineer & Full Stack Developer** opportunities
 - 📍 Bengaluru, India
-
-</td>
-</tr>
-</table>
-</div>
