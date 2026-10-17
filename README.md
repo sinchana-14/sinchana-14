@@ -1,12 +1,17 @@
-<h1 align="center">Hi, I'm Sinchana H S 👋</h1>
+<h1 align="center">Sinchana H S</h1>
+
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <b>Full Stack Developer</b> · Java · Spring Boot · React · SQL
+  Java · Spring Boot · React · SQL
 </p>
 
 <p align="center">
-  BE in Information Science & Engineering · Bangalore, India<br/>
-  I build clean, working web applications and I'm open to <b>Backend / Full Stack Developer</b> roles.
+  BE in Information Science & Engineering
+</p>
+
+<p align="center">
+  Open to <b>Frontend, Backend, Full Stack Developer</b> roles
 </p>
 
 <p align="center">
