@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sinchana H S 👋</h1>
 
-<!--
-**sinchana-14/sinchana-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Full Stack Developer</b> · Java · Spring Boot · React · SQL
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  BE in Information Science & Engineering · Bangalore, India<br/>
+  I build clean, working web applications and I'm open to <b>Backend / Full Stack Developer</b> roles.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="www.linkedin.com/in/sinchana-h-s-128a02301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sinchanasinchana675@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sinchana14-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
