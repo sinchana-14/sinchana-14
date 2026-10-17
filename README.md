@@ -19,3 +19,25 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:7C3AED&height=3" width="100%" alt="" />
+
+<h2 align="center">👩‍💻 About Me</h2>
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+- 🎓 B.E. in Information Science & Engineering | CGPA: 8.75/10
+- 💼 Full Stack + AI Engineer at **Scale IT OS**
+- 💻 Java Full-Stack Developer Intern at **Palle Technologies**
+- ⚙️ Java, Spring Boot, React.js, Flask, REST APIs & SQL
+- 🤖 Interested in AI-powered applications and full-stack development
+- 🚀 Open to **Software Engineer & Full Stack Developer** opportunities
+- 📍 Bengaluru, India
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:7C3AED&height=3" width="100%" alt="" />
