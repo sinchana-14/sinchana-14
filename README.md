@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=220&section=header&text=Sinchana%20H%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" alt="Sinchana H S - Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:4F46E5&height=220&section=header&text=Sinchana%20H%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" alt="Sinchana H S - Full Stack Developer" />
 </p>
 
 <h3 align="center">Building full-stack applications with Java, Spring Boot, React, and SQL</h3>
