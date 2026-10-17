@@ -1,17 +1,13 @@
 <h1 align="center">Sinchana H S</h1>
 
-<h3 align="center">Full Stack Developer</h3>
-
-<p align="center">
-  Java · Spring Boot · React · SQL
-</p>
+<h3 align="center">Building full-stack applications with Java, Spring Boot, React, and SQL</h3>
 
 <p align="center">
   BE in Information Science & Engineering
 </p>
 
 <p align="center">
-  Open to <b>Frontend, Backend, Full Stack Developer</b> roles
+  Open to <b>Frontend, Backend, Full Stack Developer</b> opportunities
 </p>
 
 <p align="center">
